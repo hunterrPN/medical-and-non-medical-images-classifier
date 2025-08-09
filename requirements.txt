@@ -1,0 +1,37 @@
+# Medical Image Classifier - Requirements
+# =====================================
+
+# Core ML/DL frameworks
+tensorflow==2.13.0
+keras==2.13.1
+scikit-learn==1.3.0
+numpy==1.24.3
+pandas==2.0.3
+
+# Image processing
+opencv-python-headless==4.8.0.76
+Pillow==10.0.1
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# PDF processing
+PyMuPDF==1.23.5
+
+# Web framework
+streamlit==1.28.1
+plotly==5.17.0
+
+# Colab integration
+pyngrok==6.0.0
+
+# Utilities
+requests==2.31.0
+beautifulsoup4==4.12.2
+tqdm==4.66.1
+
+# Optional: For local development
+reportlab==4.0.4
+
+# Optional: For enhanced PDF processing
+pdf2image==1.16.3
+pytesseract==0.3.10
